@@ -4,6 +4,10 @@ Sign2Sense is a machine learning-based assistive system that translates American
 
 By combining real-time image analysis, convolutional neural networks (CNNs), and customizable Braille encoding, Sign2Sense offers a flexible, adaptive, and inclusive communication solution.
 
+DataSet 
+-https://drive.google.com/file/d/14lVhKXK6hEQVOuoSCslcgKzw2DjG-n1y/view?usp=sharing
+-https://drive.google.com/file/d/1gOeUCCnfb0lAtiwUPaAuUu3jFrrhYFMd/view?usp=sharing
+
 Features
   -Real-time ASL gesture recognition using CNN
   
